@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Baskin/static/css/main.082fe3d5.css",
+    "main.js": "/Baskin/static/js/main.07be3c3b.js",
+    "static/js/453.79c9fce3.chunk.js": "/Baskin/static/js/453.79c9fce3.chunk.js",
+    "static/media/back.jpg": "/Baskin/static/media/back.57bf48fd20e701e66d47.jpg",
+    "index.html": "/Baskin/index.html",
+    "main.082fe3d5.css.map": "/Baskin/static/css/main.082fe3d5.css.map",
+    "main.07be3c3b.js.map": "/Baskin/static/js/main.07be3c3b.js.map",
+    "453.79c9fce3.chunk.js.map": "/Baskin/static/js/453.79c9fce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082fe3d5.css",
+    "static/js/main.07be3c3b.js"
+  ]
+}
